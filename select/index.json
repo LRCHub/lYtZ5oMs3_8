@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "絶体暗星",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-01-01T07:58:41.773153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶体暗星 (The Stars Get Dark)",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/01_絶体暗星_(The_Stars_Get_Dark)_稲葉曇.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶体暗星",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_絶体暗星_稲葉曇.txt"
+    }
+  ]
+}
